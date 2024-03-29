@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/JoudHabib99/joudhabib/static/css/main.c2cdeadd.css",
-    "main.js": "/JoudHabib99/joudhabib/static/js/main.f4c1d13d.js",
-    "static/js/453.acca0757.chunk.js": "/JoudHabib99/joudhabib/static/js/453.acca0757.chunk.js",
-    "static/media/7.PNG": "/JoudHabib99/joudhabib/static/media/7.ef95922b2704414f7e95.PNG",
-    "static/media/12.png": "/JoudHabib99/joudhabib/static/media/12.41d48d28cbe89d6de5d6.png",
-    "static/media/13.png": "/JoudHabib99/joudhabib/static/media/13.82d3e5545c69f045b866.png",
-    "static/media/6.PNG": "/JoudHabib99/joudhabib/static/media/6.4fb4b5a0d7ef8cd936ce.PNG",
-    "static/media/resume-joud-habib.pdf": "/JoudHabib99/joudhabib/static/media/resume-joud-habib.5a7f63ac8a1d797f1ee0.pdf",
-    "static/media/4.PNG": "/JoudHabib99/joudhabib/static/media/4.48249aac075477a013c8.PNG",
-    "static/media/joud.jpg": "/JoudHabib99/joudhabib/static/media/joud.74dd114421c8f3421754.jpg",
-    "static/media/2.PNG": "/JoudHabib99/joudhabib/static/media/2.4632182ac24c67a811cf.PNG",
-    "static/media/1.PNG": "/JoudHabib99/joudhabib/static/media/1.d12fb9172f4a00d75a61.PNG",
-    "static/media/revicons.eot": "/JoudHabib99/joudhabib/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/JoudHabib99/joudhabib/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/JoudHabib99/joudhabib/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/JoudHabib99/joudhabib/index.html",
-    "main.c2cdeadd.css.map": "/JoudHabib99/joudhabib/static/css/main.c2cdeadd.css.map",
-    "main.f4c1d13d.js.map": "/JoudHabib99/joudhabib/static/js/main.f4c1d13d.js.map",
-    "453.acca0757.chunk.js.map": "/JoudHabib99/joudhabib/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/joudhabib/static/css/main.8540ec8c.css",
+    "main.js": "/joudhabib/static/js/main.36edb28d.js",
+    "static/js/453.acca0757.chunk.js": "/joudhabib/static/js/453.acca0757.chunk.js",
+    "static/media/7.PNG": "/joudhabib/static/media/7.ef95922b2704414f7e95.PNG",
+    "static/media/12.png": "/joudhabib/static/media/12.41d48d28cbe89d6de5d6.png",
+    "static/media/13.png": "/joudhabib/static/media/13.82d3e5545c69f045b866.png",
+    "static/media/6.PNG": "/joudhabib/static/media/6.4fb4b5a0d7ef8cd936ce.PNG",
+    "static/media/resume-joud-habib.pdf": "/joudhabib/static/media/resume-joud-habib.5a7f63ac8a1d797f1ee0.pdf",
+    "static/media/4.PNG": "/joudhabib/static/media/4.48249aac075477a013c8.PNG",
+    "static/media/joud.jpg": "/joudhabib/static/media/joud.74dd114421c8f3421754.jpg",
+    "static/media/2.PNG": "/joudhabib/static/media/2.4632182ac24c67a811cf.PNG",
+    "static/media/1.PNG": "/joudhabib/static/media/1.d12fb9172f4a00d75a61.PNG",
+    "static/media/revicons.eot": "/joudhabib/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/joudhabib/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/joudhabib/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/joudhabib/index.html",
+    "main.8540ec8c.css.map": "/joudhabib/static/css/main.8540ec8c.css.map",
+    "main.36edb28d.js.map": "/joudhabib/static/js/main.36edb28d.js.map",
+    "453.acca0757.chunk.js.map": "/joudhabib/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cdeadd.css",
-    "static/js/main.f4c1d13d.js"
+    "static/css/main.8540ec8c.css",
+    "static/js/main.36edb28d.js"
   ]
 }
